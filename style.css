@@ -1,0 +1,13 @@
+table {
+  font-size: 28px;
+  width: 50%;
+  margin: 0 auto;
+  border: 2px solid red;
+}
+
+tr,
+th,
+td {
+  border: 1px solid;
+  text-align: center;
+}
